@@ -1,0 +1,5094 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.855803373405266,
+          9.5530422147657372
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "IDENT" : "TR5878007A",
+        "FECHAINVEN" : 749347200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 296516.70000000001,
+        "UTMY" : 1056908,
+        "FECHA" : "120491",
+        "DIAMETPERF" : 28,
+        "PROFUNPERF" : 126,
+        "DIAMETENTU" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.874692007277545,
+          9.5469291119592974
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "IDENT" : "TR5878008A",
+        "FECHAINVEN" : 749347200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 294439.09999999998,
+        "UTMY" : 1056243,
+        "FECHA" : "121288",
+        "DIAMETPERF" : 28,
+        "PROFUNPERF" : 140,
+        "DIAMETENTU" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.888302782096645,
+          9.5255388539422245
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "IDENT" : "TR5878026A",
+        "FECHAINVEN" : 749865600000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 292931.70000000001,
+        "UTMY" : 1053885,
+        "FECHA" : "072887",
+        "DIAMETPERF" : 20,
+        "PROFUNPERF" : 130,
+        "DIAMETENTU" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896913793576005,
+          9.4935986352166637
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "IDENT" : "TR5778003A",
+        "FECHAINVEN" : 749779200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 291966.79999999999,
+        "UTMY" : 1050357,
+        "FECHA" : "021282",
+        "DIAMETPERF" : 20,
+        "PROFUNPERF" : 135,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.882350471693243,
+          9.4833986685035327
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "IDENT" : "TR5778004A",
+        "FECHAINVEN" : 749865600000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 293560,
+        "UTMY" : 1049220,
+        "FECHA" : "061582",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 126,
+        "DIAMETENTU" : 12.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.873858315021721,
+          9.4838781710909164
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "IDENT" : "TR5778005A",
+        "FECHAINVEN" : 749779200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 294492.90000000002,
+        "UTMY" : 1049268,
+        "FECHA" : "070982",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 130,
+        "DIAMETENTU" : 12.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.888024956227383,
+          9.4925076923214231
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "IDENT" : "TR5778006A",
+        "FECHAINVEN" : 749865600000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 292942.29999999999,
+        "UTMY" : 1050231,
+        "FECHA" : "081082",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 130,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.866914230469007,
+          9.4838791231579886
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "IDENT" : "TR5778007A",
+        "FECHAINVEN" : 749865600000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 295255.5,
+        "UTMY" : 1049264,
+        "FECHA" : "091682",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 12.199999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.854135925883298,
+          9.4808191077683439
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "IDENT" : "TR5778008A",
+        "FECHAINVEN" : 749865600000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 296657,
+        "UTMY" : 1048918,
+        "FECHA" : "063083",
+        "DIAMETPERF" : 20,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.840811362005923,
+          9.4786022104020411
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "IDENT" : "TR5778010A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "MARIA VARTOLA INFANTE",
+        "UTMX" : 298119,
+        "UTMY" : 1048665,
+        "FECHA" : "87",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 40,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.842469644826224,
+          9.4777708143927235
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "IDENT" : "TR5778011A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "MARIA VARTOLA INFANTE",
+        "UTMX" : 297936.40000000002,
+        "UTMY" : 1048574,
+        "FECHA" : "81",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 50,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.848025520627289,
+          9.493318053134514
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "IDENT" : "TR5778012A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "CARMEN BRICE¥O",
+        "UTMX" : 297335.40000000002,
+        "UTMY" : 1050297,
+        "FECHA" : "78",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.847469329145298,
+          9.4947132055395258
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "IDENT" : "TR5778013A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "CARMEN BRICE¥O",
+        "UTMX" : 297397.29999999999,
+        "UTMY" : 1050451,
+        "FECHA" : "78",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 22,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.847746888747693,
+          9.4902638895832183
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "IDENT" : "TR5778014A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "CARMEN BRICE¥O",
+        "UTMX" : 297364.20000000001,
+        "UTMY" : 1049959,
+        "FECHA" : "89",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.841914174533272,
+          9.4949866095414013
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "IDENT" : "TR5778015A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "PABLO MORENO",
+        "UTMX" : 298007.5,
+        "UTMY" : 1050478,
+        "FECHA" : "85",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 1.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.841914174533272,
+          9.4949866095414013
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "IDENT" : "TR5778016A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "PABLO MORENO",
+        "UTMX" : 298007.5,
+        "UTMY" : 1050478,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.845803044438256,
+          9.4877699758181819
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "IDENT" : "TR5778017A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "DOMINGO TERAN",
+        "UTMX" : 297576.20000000001,
+        "UTMY" : 1049682,
+        "FECHA" : "90",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.844665980400478,
+          9.4859498206162165
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "IDENT" : "TR5778018A",
+        "FECHAINVEN" : 753408000000,
+        "PROPIETARI" : "DOMINGO TERAN",
+        "UTMX" : 297700,
+        "UTMY" : 1049480,
+        "FECHA" : "90",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.848025257898883,
+          9.4813757594761174
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "IDENT" : "TR5778019A",
+        "FECHAINVEN" : 753408000000,
+        "PROPIETARI" : "RAFAEL MARIA SOTO",
+        "UTMX" : 297328.40000000002,
+        "UTMY" : 1048976,
+        "FECHA" : "90",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 33,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.848025257898883,
+          9.4813757594761174
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "IDENT" : "TR5778020A",
+        "FECHAINVEN" : 753321600000,
+        "PROPIETARI" : "RAFAEL MARIA SOTO",
+        "UTMX" : 297328.40000000002,
+        "UTMY" : 1048976,
+        "FECHA" : " ",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.859969887014074,
+          9.4786004097274503
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "IDENT" : "TR5778021A",
+        "FECHAINVEN" : 754617600000,
+        "PROPIETARI" : "SERAFIN DESESARE",
+        "UTMX" : 296015,
+        "UTMY" : 1048676,
+        "FECHA" : "72",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 92,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.867469177445074,
+          9.47638179249007
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "IDENT" : "TR5778022A",
+        "FECHAINVEN" : 754617600000,
+        "PROPIETARI" : "FRANCISCO BENITE",
+        "UTMX" : 295190.09999999998,
+        "UTMY" : 1048435,
+        "FECHA" : "90",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 27,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.850525339474217,
+          9.4824925937552909
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "IDENT" : "TR5778023A",
+        "FECHAINVEN" : 754617600000,
+        "PROPIETARI" : "SALVADOR STIVAL",
+        "UTMX" : 297054.5,
+        "UTMY" : 1049101,
+        "FECHA" : "93",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 40,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.87395034283557,
+          9.479194844025546
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "IDENT" : "TR5778025A",
+        "FECHAINVEN" : 754704000000,
+        "PROPIETARI" : "DIOFILO LINARES",
+        "UTMX" : 294480,
+        "UTMY" : 1048750,
+        "FECHA" : "0291",
+        "DIAMETPERF" : 12,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.85024702995436,
+          9.4883250808845947
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "IDENT" : "TR5778027A",
+        "FECHAINVEN" : 755222400000,
+        "PROPIETARI" : "RICARDO MONTA¥O",
+        "UTMX" : 297088.5,
+        "UTMY" : 1049746,
+        "FECHA" : "80",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.874688597022157,
+          9.4809989355008621
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "IDENT" : "TR5778028A",
+        "FECHAINVEN" : 755222400000,
+        "PROPIETARI" : "MANUEL CA¥IZALES",
+        "UTMX" : 294400,
+        "UTMY" : 1048950,
+        "FECHA" : " ",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.873405490781849,
+          9.4794689664862553
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "IDENT" : "TR5778029A",
+        "FECHAINVEN" : 755222400000,
+        "PROPIETARI" : "YOSELINA LINARES",
+        "UTMX" : 294540,
+        "UTMY" : 1048780,
+        "FECHA" : "89",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 33,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.872474562713094,
+          9.4750442338284167
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "IDENT" : "TR5778030A",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "PABLO BELLO",
+        "UTMX" : 294639.59999999998,
+        "UTMY" : 1048290,
+        "FECHA" : "1093",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.872751804839083,
+          9.4739488838608477
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "IDENT" : "TR5778031A",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "NERIO ENRRIQUE SALA",
+        "UTMX" : 294608.5,
+        "UTMY" : 1048169,
+        "FECHA" : "0293",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 32,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.876082702267766,
+          9.4743017100674596
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "IDENT" : "TR5778032A",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "CESARINO ANTONIO SALA",
+        "UTMX" : 294242.90000000002,
+        "UTMY" : 1048210,
+        "FECHA" : "70",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 24,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.876286312765856,
+          9.4745718259179572
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "IDENT" : "TR5778033A",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "FELIZ MONTILLA",
+        "UTMX" : 294220.70000000001,
+        "UTMY" : 1048240,
+        "FECHA" : "86",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 32,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.878322322613215,
+          9.4747417184563645
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "IDENT" : "TR5778034A",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "BERNANDINO RODRIGUEZ",
+        "UTMX" : 293997.20000000001,
+        "UTMY" : 1048260,
+        "FECHA" : "83",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 38,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.878580605810058,
+          9.4830482763217088
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "IDENT" : "TR5778035A",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "NU¥EZ RICARDO",
+        "UTMX" : 293973.79999999999,
+        "UTMY" : 1049179,
+        "FECHA" : "86",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 64,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.876635867336262,
+          9.4869432858118046
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "IDENT" : "TR5778036A",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "NECTALI ZAMBRANO",
+        "UTMX" : 294189.70000000001,
+        "UTMY" : 1049608.7,
+        "FECHA" : "82",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.878024877458984,
+          9.4816590679306163
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "IDENT" : "TR5778037A",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "MARIA BELEN DE PEREZ",
+        "UTMX" : 294034,
+        "UTMY" : 1049025,
+        "FECHA" : "86",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 68,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.875247583546454,
+          9.4824875768610237
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "IDENT" : "TR5778038A",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "MARIA BELEN DE PEREZ",
+        "UTMX" : 294339.5,
+        "UTMY" : 1049115,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.877191496735875,
+          9.4908212633734408
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "IDENT" : "TR5778039A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "TIMAURE HECTOR",
+        "UTMX" : 294131,
+        "UTMY" : 1050038,
+        "FECHA" : "86",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 23,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.878396543479326,
+          9.4897118891038108
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "IDENT" : "TR5778040A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "NECTALI ZAMBRANO",
+        "UTMX" : 293998,
+        "UTMY" : 1049916,
+        "FECHA" : "78",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 48,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.876913849237965,
+          9.4866552201266554
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "IDENT" : "TR5778041A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "ANTONIO ARAUJO",
+        "UTMX" : 294159,
+        "UTMY" : 1049577,
+        "FECHA" : "85",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.883030112207535,
+          9.4777901030628229
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "IDENT" : "TR5778042A",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "MANUEL RIVAS",
+        "UTMX" : 293482,
+        "UTMY" : 1048600,
+        "FECHA" : "87",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.637154823182442,
+          9.5589419813838603
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "IDENT" : "TR5876001M",
+        "FECHAINVEN" : 754272000000,
+        "PROPIETARI" : " ",
+        "UTMX" : 320525.40000000002,
+        "UTMY" : 1057439,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.649137512875527,
+          9.5697076347127368
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "IDENT" : "TR5876003C",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "ARGENIS ALVARADO",
+        "UTMX" : 319215.59999999998,
+        "UTMY" : 1058636,
+        "FECHA" : "100393",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.640249072489993,
+          9.5528516546339741
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "IDENT" : "TR5876004C",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "MIGUEL CHUECOS",
+        "UTMX" : 320182.5,
+        "UTMY" : 1056767,
+        "FECHA" : "061093",
+        "DIAMETPERF" : 41,
+        "PROFUNPERF" : 6.7999999999999998,
+        "DIAMETENTU" : 41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.646637383158065,
+          9.5497112606988956
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "IDENT" : "TR5876006C",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "PEPINO ROYATTE",
+        "UTMX" : 319479.5,
+        "UTMY" : 1056423,
+        "FECHA" : "111093",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.654139190791824,
+          9.5504622330311495
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "IDENT" : "TR5876008A",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "RAFAEL  DUGARTE",
+        "UTMX" : 318656.29999999999,
+        "UTMY" : 1056510,
+        "FECHA" : "081391",
+        "DIAMETPERF" : 20,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.647748256338517,
+          9.5708172645021161
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "IDENT" : "TR5876002A",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "ARGENIS ALVARADO",
+        "UTMX" : 319368.70000000001,
+        "UTMY" : 1058758,
+        "FECHA" : " ",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 18,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.852747889901863,
+          9.5913712356310175
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "IDENT" : "TR5878149A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "AGROPECUARIA LOS SAMANES",
+        "UTMX" : 296875,
+        "UTMY" : 1061146,
+        "FECHA" : " ",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.851636692257941,
+          9.5816498379348314
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "IDENT" : "TR5878147A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "ANDARA Y COMPA¥IA",
+        "UTMX" : 296991.20000000001,
+        "UTMY" : 1060070,
+        "FECHA" : "85",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 108,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.853581682957483,
+          9.5894231142233011
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "IDENT" : "TR5878148A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "AGROPECUARA LOS SAMANES",
+        "UTMX" : 296782.29999999999,
+        "UTMY" : 1060931,
+        "FECHA" : " ",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.64774849073288,
+          9.5508180678766124
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "IDENT" : "TR5876005A",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "PEPINO ROYATTE",
+        "UTMX" : 319358.09999999998,
+        "UTMY" : 1056546,
+        "FECHA" : " ",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.64247059495213,
+          9.5499841265024816
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "IDENT" : "TR5876007A",
+        "FECHAINVEN" : 754704000000,
+        "PROPIETARI" : "ACUEDUR",
+        "UTMX" : 319937.09999999998,
+        "UTMY" : 1056451,
+        "FECHA" : "130374",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 16,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.65497024339362,
+          9.5511002028786347
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "IDENT" : "TR5876009C",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "RAFAEL DUGARTE",
+        "UTMX" : 318565.40000000002,
+        "UTMY" : 1056581,
+        "FECHA" : "030291",
+        "DIAMETPERF" : 35,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 35
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.662470852420611,
+          9.5555397890832605
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "IDENT" : "TR5876010C",
+        "FECHAINVEN" : 759110400000,
+        "PROPIETARI" : "EUSEBIO TORRES",
+        "UTMX" : 317744.29999999999,
+        "UTMY" : 1057076,
+        "FECHA" : "100893",
+        "DIAMETPERF" : 48,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 48
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.664532876042955,
+          9.5594356962267657
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "IDENT" : "TR5876011C",
+        "FECHAINVEN" : 758678400000,
+        "PROPIETARI" : "LUPERCIO DURAN",
+        "UTMX" : 317520,
+        "UTMY" : 1057508,
+        "FECHA" : " ",
+        "DIAMETPERF" : 33,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 33
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.666531752950988,
+          9.5585852840311443
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "IDENT" : "TR5876012C",
+        "FECHAINVEN" : 758678400000,
+        "PROPIETARI" : "JUAN GRIFFO",
+        "UTMX" : 317300.09999999998,
+        "UTMY" : 1057415,
+        "FECHA" : "131089",
+        "DIAMETPERF" : 44,
+        "PROFUNPERF" : 13,
+        "DIAMETENTU" : 44
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.667438597133355,
+          9.5577581878267939
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "IDENT" : "TR5876013C",
+        "FECHAINVEN" : 758678400000,
+        "PROPIETARI" : "ELIO MENDES",
+        "UTMX" : 317200.09999999998,
+        "UTMY" : 1057324,
+        "FECHA" : "100290",
+        "DIAMETPERF" : 51,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 51
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.651536190542743,
+          9.5571199019867468
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "IDENT" : "TR5876014C",
+        "FECHAINVEN" : 758246400000,
+        "PROPIETARI" : "JESUS BUENO",
+        "UTMX" : 318945.59999999998,
+        "UTMY" : 1057245,
+        "FECHA" : "100293",
+        "DIAMETPERF" : 32,
+        "PROFUNPERF" : 17,
+        "DIAMETENTU" : 32
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.822469751616993,
+          9.483317835999781
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "IDENT" : "TR5777018A",
+        "FECHAINVEN" : 772588800000,
+        "PROPIETARI" : "HECTOR GOMZALEZ",
+        "UTMX" : 300136,
+        "UTMY" : 1049176,
+        "FECHA" : "88",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 160,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.823303351991512,
+          9.4839101649162494
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "IDENT" : "TR5777019A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "HECTOR GONSALEZ",
+        "UTMX" : 300044.79999999999,
+        "UTMY" : 1049242,
+        "FECHA" : "79",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 36,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.819414204027623,
+          9.4844366727612801
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "IDENT" : "TR5777020A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "AGRO VALRICA",
+        "UTMX" : 300472.20000000001,
+        "UTMY" : 1049298,
+        "FECHA" : "74",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.818302910427576,
+          9.478322037009594
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "IDENT" : "TR5777021A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "ALFREDO GONZALEZ",
+        "UTMX" : 300590.70000000001,
+        "UTMY" : 1048621,
+        "FECHA" : "74",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 48,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.82802509477645,
+          9.4669346960983063
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "IDENT" : "TR5777022A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "BENITO MENDOZA",
+        "UTMX" : 299516.40000000002,
+        "UTMY" : 1047367,
+        "FECHA" : "64",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 29,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.813857878157066,
+          9.4494335102544333
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "IDENT" : "TR5777023A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "AMBROSIO MIZINA",
+        "UTMX" : 301062.20000000001,
+        "UTMY" : 1045423,
+        "FECHA" : " ",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 40,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.82080209323027,
+          9.4377714987446506
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "IDENT" : "TR5777024A",
+        "FECHAINVEN" : 768528000000,
+        "PROPIETARI" : " ",
+        "UTMX" : 300292.79999999999,
+        "UTMY" : 1044137,
+        "FECHA" : " ",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.821544899967819,
+          9.4427670441877325
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "IDENT" : "TR5777025A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "MAC",
+        "UTMX" : 300214.09999999998,
+        "UTMY" : 1044690,
+        "FECHA" : "120672",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.823302861709777,
+          9.4394400700441725
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "IDENT" : "TR5777026A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "SAS",
+        "UTMX" : 300019.09999999998,
+        "UTMY" : 1044323,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.83062415289497,
+          9.4484153490824898
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "IDENT" : "TR5777027A",
+        "FECHAINVEN" : 775267200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 299220.20000000001,
+        "UTMY" : 1045320,
+        "FECHA" : "93",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 160,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.78996932244921,
+          9.4194326480071666
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "IDENT" : "TR5777028A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "PEDRO GRAZANO",
+        "UTMX" : 303668.79999999999,
+        "UTMY" : 1042091,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.811358495943068,
+          9.4166563528942859
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "IDENT" : "TR5777029A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "RAFAEL A PENA",
+        "UTMX" : 301317.90000000002,
+        "UTMY" : 1041796,
+        "FECHA" : "050591",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.831357751957768,
+          9.4252679780891206
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "IDENT" : "TR5777030A",
+        "FECHAINVEN" : 775440000000,
+        "PROPIETARI" : "RICARDO PARRA",
+        "UTMX" : 299126.20000000001,
+        "UTMY" : 1042760,
+        "FECHA" : " ",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.831357659434261,
+          9.4147177669069482
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "IDENT" : "TR5777031A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "JESUS LEON ESTRADA",
+        "UTMX" : 299120.09999999998,
+        "UTMY" : 1041593,
+        "FECHA" : "82",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.700525637774504,
+          9.5555364429469254
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "IDENT" : "TR5877012A",
+        "FECHAINVEN" : 783648000000,
+        "PROPIETARI" : "LUIS APROCEZZI",
+        "UTMX" : 313566.40000000002,
+        "UTMY" : 1057096,
+        "FECHA" : "071094",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 72,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.693581914041587,
+          9.5602626521683831
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "IDENT" : "TR5877013A",
+        "FECHAINVEN" : 783648000000,
+        "PROPIETARI" : "LUIS APROCEZZI",
+        "UTMX" : 314331.29999999999,
+        "UTMY" : 1057615,
+        "FECHA" : "071094",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.670525831028471,
+          9.5505375729259043
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "IDENT" : "TR5877014A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "ACUERUR",
+        "UTMX" : 316857.29999999999,
+        "UTMY" : 1056527,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 15,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.670811615243736,
+          9.5516120941676039
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "IDENT" : "TR5877015A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "ACUERUR",
+        "UTMX" : 316826.5,
+        "UTMY" : 1056646,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 16,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.672470832650262,
+          9.5504197272115778
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "IDENT" : "TR5877016A",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "ACUERUR",
+        "UTMX" : 316643.70000000001,
+        "UTMY" : 1056515,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 13,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.673025687238379,
+          9.550263358236819
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "IDENT" : "TR5877017C",
+        "FECHAINVEN" : 758419200000,
+        "PROPIETARI" : "CARLOS SOSA",
+        "UTMX" : 316582.70000000001,
+        "UTMY" : 1056498,
+        "FECHA" : "100374",
+        "DIAMETPERF" : 30,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 30
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.679529799798686,
+          9.5533692551599856
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "IDENT" : "TR5877018C",
+        "FECHAINVEN" : 754272000000,
+        "PROPIETARI" : "JOSE OLIVEIRA",
+        "UTMX" : 315870.29999999999,
+        "UTMY" : 1056845,
+        "FECHA" : "200883",
+        "DIAMETPERF" : 79,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 79
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.681254856176182,
+          9.5520499566131551
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "IDENT" : "TR5877019A",
+        "FECHAINVEN" : 754272000000,
+        "PROPIETARI" : "JOSE OLIVEIRA",
+        "UTMX" : 315680.20000000001,
+        "UTMY" : 1056700,
+        "FECHA" : "200393",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 29,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.683853430585629,
+          9.5533302507960389
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "IDENT" : "TR5877020C",
+        "FECHAINVEN" : 760147200000,
+        "PROPIETARI" : "JOSE OLIVEIRA",
+        "UTMX" : 315395.59999999998,
+        "UTMY" : 1056843,
+        "FECHA" : "100884",
+        "DIAMETPERF" : 79,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 79
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.685794424841873,
+          9.5496230448182278
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "IDENT" : "TR5877021C",
+        "FECHAINVEN" : 758505600000,
+        "PROPIETARI" : "IMSA",
+        "UTMX" : 315180.5,
+        "UTMY" : 1056434,
+        "FECHA" : " ",
+        "DIAMETPERF" : 35,
+        "PROFUNPERF" : 8,
+        "DIAMETENTU" : 35
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.727263089567785,
+          9.5538314401397564
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "IDENT" : "TR5877022A",
+        "FECHAINVEN" : 754012800000,
+        "PROPIETARI" : "ACUERUR",
+        "UTMX" : 310630,
+        "UTMY" : 1056922,
+        "FECHA" : "100293",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.721359143101196,
+          9.5610934587837555
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "IDENT" : "TR5877023A",
+        "FECHAINVEN" : 751334400000,
+        "PROPIETARI" : "MARIO PINTO",
+        "UTMX" : 311282.20000000001,
+        "UTMY" : 1057722,
+        "FECHA" : "86",
+        "DIAMETPERF" : 20,
+        "PROFUNPERF" : 68,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.722473452234652,
+          9.5633300757909669
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "IDENT" : "TR5877024C",
+        "FECHAINVEN" : 754012800000,
+        "PROPIETARI" : "RAFAEL ANDRADE",
+        "UTMX" : 311161.09999999998,
+        "UTMY" : 1057970,
+        "FECHA" : "050488",
+        "DIAMETPERF" : 97,
+        "PROFUNPERF" : 28,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.725808575327463,
+          9.5556558846855744
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "IDENT" : "TR5877025C",
+        "FECHAINVEN" : 754012800000,
+        "PROPIETARI" : "JOSE JULIO CASTRO",
+        "UTMX" : 310790.70000000001,
+        "UTMY" : 1057123,
+        "FECHA" : "101089",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 15,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.714821975710223,
+          9.5531064940117769
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "IDENT" : "TR5877026C",
+        "FECHAINVEN" : 754531200000,
+        "PROPIETARI" : "CARLOS RAMON ROJAS",
+        "UTMX" : 311995.5,
+        "UTMY" : 1056835,
+        "FECHA" : "030590",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 21,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.71233035518263,
+          9.5715713435523533
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "IDENT" : "TR5877027A",
+        "FECHAINVEN" : 751334400000,
+        "PROPIETARI" : "DOUGLAS D'COSTA",
+        "UTMX" : 312279.20000000001,
+        "UTMY" : 1058876,
+        "FECHA" : "291187",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 75.200000000000003,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.710389747781207,
+          9.5776745148526246
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "IDENT" : "TR5877028A",
+        "FECHAINVEN" : 754099200000,
+        "PROPIETARI" : "PABLO ROMERO",
+        "UTMX" : 312495.59999999998,
+        "UTMY" : 1059550,
+        "FECHA" : "73",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 80,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.714692118381606,
+          9.5749861885941669
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "IDENT" : "TR5877029A",
+        "FECHAINVEN" : 759456000000,
+        "PROPIETARI" : "TULIO MENDOZA",
+        "UTMX" : 312021.79999999999,
+        "UTMY" : 1059255,
+        "FECHA" : " ",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 80,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.72747403810024,
+          9.5743170114128251
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "IDENT" : "TR5877030A",
+        "FECHAINVEN" : 754012800000,
+        "PROPIETARI" : "JOSE RAFAEL PERDOMO",
+        "UTMX" : 310618.20000000001,
+        "UTMY" : 1059188,
+        "FECHA" : "100685",
+        "DIAMETPERF" : 12,
+        "PROFUNPERF" : 40,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.729975151011033,
+          9.5528505766014256
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "IDENT" : "TR5877031A",
+        "FECHAINVEN" : 760060800000,
+        "PROPIETARI" : "MSAS",
+        "UTMX" : 310331.70000000001,
+        "UTMY" : 1056815,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.727198272135638,
+          9.5687763307628302
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "IDENT" : "TR5877032A",
+        "FECHAINVEN" : 760060800000,
+        "PROPIETARI" : "FRANCISCO MAINOLFFI",
+        "UTMX" : 310645.40000000002,
+        "UTMY" : 1058575,
+        "FECHA" : "151191",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 75,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.72683019171366,
+          9.5683984460431759
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "IDENT" : "TR5877033C",
+        "FECHAINVEN" : 760060800000,
+        "PROPIETARI" : "FRANCISCO MAINOLFFI",
+        "UTMX" : 310685.59999999998,
+        "UTMY" : 1058533,
+        "FECHA" : "100194",
+        "DIAMETPERF" : 33,
+        "PROFUNPERF" : 21,
+        "DIAMETENTU" : 33
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.732741895204782,
+          9.5675281773657321
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "IDENT" : "TR5877034A",
+        "FECHAINVEN" : 757468800000,
+        "PROPIETARI" : "GONZALO SEGOVIA",
+        "UTMX" : 310036.09999999998,
+        "UTMY" : 1058440,
+        "FECHA" : "160486",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.738730764369919,
+          9.5689447540875108
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "IDENT" : "TR5877035A",
+        "FECHAINVEN" : 759542400000,
+        "PROPIETARI" : "NELSON PAREDES",
+        "UTMX" : 309379.40000000002,
+        "UTMY" : 1058600,
+        "FECHA" : "111092",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.739136889347606,
+          9.5755425151141083
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "IDENT" : "TR5877036A",
+        "FECHAINVEN" : 759542400000,
+        "PROPIETARI" : "ROMULO LUCCETTE",
+        "UTMX" : 309338.5,
+        "UTMY" : 1059330,
+        "FECHA" : "130193",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.744332389713392,
+          9.5678317433942439
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "IDENT" : "TR5877037C",
+        "FECHAINVEN" : 760320000000,
+        "PROPIETARI" : "VICTOR MORENO",
+        "UTMX" : 308763.79999999999,
+        "UTMY" : 1058480,
+        "FECHA" : "110191",
+        "DIAMETPERF" : 41,
+        "PROFUNPERF" : 13,
+        "DIAMETENTU" : 41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.744414801915724,
+          9.5647032138234795
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "IDENT" : "TR5877038C",
+        "FECHAINVEN" : 758332800000,
+        "PROPIETARI" : "RAMON MORENO",
+        "UTMX" : 308753,
+        "UTMY" : 1058134,
+        "FECHA" : "080793",
+        "DIAMETPERF" : 41,
+        "PROFUNPERF" : 6,
+        "DIAMETENTU" : 41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.744970119815378,
+          9.5630369165934344
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "IDENT" : "TR5877039C",
+        "FECHAINVEN" : 760147200000,
+        "PROPIETARI" : "GONZALO SEGOVIA",
+        "UTMX" : 308691.09999999998,
+        "UTMY" : 1057950,
+        "FECHA" : " ",
+        "DIAMETPERF" : 60,
+        "PROFUNPERF" : 8,
+        "DIAMETENTU" : 60
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.747192629959244,
+          9.5630438205716217
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "IDENT" : "TR5877040C",
+        "FECHAINVEN" : 760233600000,
+        "PROPIETARI" : "ANTONIO J. CASTELLANOS",
+        "UTMX" : 308447.09999999998,
+        "UTMY" : 1057952,
+        "FECHA" : "100392",
+        "DIAMETPERF" : 40,
+        "PROFUNPERF" : 8,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.749451390070234,
+          9.5624809588498838
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "IDENT" : "TR5877041A",
+        "FECHAINVEN" : 760233600000,
+        "PROPIETARI" : "ANTONIO J. CASTELLANOS",
+        "UTMX" : 308198.79999999999,
+        "UTMY" : 1057891,
+        "FECHA" : "150196",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.744693657596699,
+          9.5604435974015587
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "IDENT" : "TR5877042C",
+        "FECHAINVEN" : 760320000000,
+        "PROPIETARI" : "CARLOS CASTELLANOS",
+        "UTMX" : 308720,
+        "UTMY" : 1057663,
+        "FECHA" : "030292",
+        "DIAMETPERF" : 54,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 54
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.7388499576127,
+          9.5594241711846522
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "IDENT" : "TR5877043C",
+        "FECHAINVEN" : 760320000000,
+        "PROPIETARI" : "MARIA PI¥A",
+        "UTMX" : 309361,
+        "UTMY" : 1057547,
+        "FECHA" : "220787",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.744140442693762,
+          9.5564467261153467
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "IDENT" : "TR5877044C",
+        "FECHAINVEN" : 760320000000,
+        "PROPIETARI" : "JUAN P. NAVA",
+        "UTMX" : 308778.5,
+        "UTMY" : 1057220.6000000001,
+        "FECHA" : "100387",
+        "DIAMETPERF" : 36,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 36
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.754141252221658,
+          9.5603327193615808
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "IDENT" : "TR5877045C",
+        "FECHAINVEN" : 760233600000,
+        "PROPIETARI" : "MARIA ALICIA VILLASMIL",
+        "UTMX" : 307682.70000000001,
+        "UTMY" : 1057656,
+        "FECHA" : " ",
+        "DIAMETPERF" : 32,
+        "PROFUNPERF" : 9,
+        "DIAMETENTU" : 32
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.757192095865804,
+          9.5577587662542722
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "IDENT" : "TR5877046C",
+        "FECHAINVEN" : 760233600000,
+        "PROPIETARI" : "FROILAN GODOY",
+        "UTMX" : 307346.29999999999,
+        "UTMY" : 1057373,
+        "FECHA" : "76",
+        "DIAMETPERF" : 43,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 43
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.759251095983487,
+          9.5580376479172351
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "IDENT" : "TR5877047C",
+        "FECHAINVEN" : 760147200000,
+        "PROPIETARI" : "GONZALO SEGOVIA",
+        "UTMX" : 307120.40000000002,
+        "UTMY" : 1057405,
+        "FECHA" : " ",
+        "DIAMETPERF" : 87,
+        "PROFUNPERF" : 9,
+        "DIAMETENTU" : 87
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.754969879407881,
+          9.5544249221854756
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "IDENT" : "TR5877048C",
+        "FECHAINVEN" : 760233600000,
+        "PROPIETARI" : "GONZALO SEGOVIA",
+        "UTMX" : 307588.40000000002,
+        "UTMY" : 1057003,
+        "FECHA" : " ",
+        "DIAMETPERF" : 44,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 44
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.748207790658739,
+          9.5702622920617255
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "IDENT" : "TR5877049A",
+        "FECHAINVEN" : 760579200000,
+        "PROPIETARI" : "JOSE MATERAN",
+        "UTMX" : 308339.70000000001,
+        "UTMY" : 1058751,
+        "FECHA" : "171192",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 60.5,
+        "DIAMETENTU" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.748859713138287,
+          9.5869301855062599
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "IDENT" : "TR5877050C",
+        "FECHAINVEN" : 761356800000,
+        "PROPIETARI" : "ALIRIO GONZALEZ",
+        "UTMX" : 308277.5,
+        "UTMY" : 1060595,
+        "FECHA" : "081092",
+        "DIAMETPERF" : 40,
+        "PROFUNPERF" : 11,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.759977051291017,
+          9.5828055496147577
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "IDENT" : "TR5877051C",
+        "FECHAINVEN" : 761356800000,
+        "PROPIETARI" : "VICTOR HERNANDEZ",
+        "UTMX" : 307054.70000000001,
+        "UTMY" : 1060145,
+        "FECHA" : "100390",
+        "DIAMETPERF" : 42,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 42
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.751640000075369,
+          9.5642292568832126
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "IDENT" : "TR5877052C",
+        "FECHAINVEN" : 761356800000,
+        "PROPIETARI" : "CARLOS NAVA",
+        "UTMX" : 307959.5,
+        "UTMY" : 1058085.6000000001,
+        "FECHA" : "140292",
+        "DIAMETPERF" : 40,
+        "PROFUNPERF" : 9,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.757192416385791,
+          9.56331881958182
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "IDENT" : "TR5877053C",
+        "FECHAINVEN" : 761443200000,
+        "PROPIETARI" : "JOSE HERNANDEZ",
+        "UTMX" : 307349.40000000002,
+        "UTMY" : 1057988,
+        "FECHA" : "100586",
+        "DIAMETPERF" : 37,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 37
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.760525570743212,
+          9.5649835075085168
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "IDENT" : "TR5877054C",
+        "FECHAINVEN" : 761356800000,
+        "PROPIETARI" : "BAUDILIO PIRELA",
+        "UTMX" : 306984.40000000002,
+        "UTMY" : 1058174,
+        "FECHA" : "110591",
+        "DIAMETPERF" : 40,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.759970743272717,
+          9.5624820401265893
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "IDENT" : "TR5877055C",
+        "FECHAINVEN" : 761356800000,
+        "PROPIETARI" : "FELI[PE VILLEGAS",
+        "UTMX" : 307043.90000000002,
+        "UTMY" : 1057897,
+        "FECHA" : "010493",
+        "DIAMETPERF" : 39,
+        "PROFUNPERF" : 9,
+        "DIAMETENTU" : 39
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.76385430389314,
+          9.5652559112533897
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "IDENT" : "TR5877056C",
+        "FECHAINVEN" : 761443200000,
+        "PROPIETARI" : "CELSA COLMENARES",
+        "UTMX" : 306619.09999999998,
+        "UTMY" : 1058206,
+        "FECHA" : "100586",
+        "DIAMETPERF" : 35,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 35.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.763836616279931,
+          9.5635925109893183
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "IDENT" : "TR5877057C",
+        "FECHAINVEN" : 761443200000,
+        "PROPIETARI" : "JOSE MATHEUS RODRIGUEZ",
+        "UTMX" : 306620.09999999998,
+        "UTMY" : 1058022,
+        "FECHA" : "150282",
+        "DIAMETPERF" : 38,
+        "PROFUNPERF" : 11,
+        "DIAMETENTU" : 38
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.720525673530943,
+          9.5916467882015493
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "IDENT" : "TR5877293C",
+        "FECHAINVEN" : 772934400000,
+        "PROPIETARI" : "FRANCO SANGERMANO",
+        "UTMX" : 311390.59999999998,
+        "UTMY" : 1061101,
+        "FECHA" : "100194",
+        "DIAMETPERF" : 31,
+        "PROFUNPERF" : 24,
+        "DIAMETENTU" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.732017063209526,
+          9.5808670471568096
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "IDENT" : "TR5877298A",
+        "FECHAINVEN" : 773452800000,
+        "PROPIETARI" : "NICOLA DE LA FRANCA",
+        "UTMX" : 310123.09999999998,
+        "UTMY" : 1059915,
+        "FECHA" : "68",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 110,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.688858812587299,
+          9.5191578806549746
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "IDENT" : "TR5877299A",
+        "FECHAINVEN" : 775094400000,
+        "PROPIETARI" : "MINASCA",
+        "UTMX" : 314827.59999999998,
+        "UTMY" : 1053066,
+        "FECHA" : " ",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.690247720715377,
+          9.5247114034313256
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "IDENT" : "TR5877300A",
+        "FECHAINVEN" : 775094400000,
+        "PROPIETARI" : "MINASCA",
+        "UTMX" : 314678.09999999998,
+        "UTMY" : 1053681,
+        "FECHA" : " ",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.677192521372504,
+          9.5433177927790105
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "IDENT" : "TR5877301A",
+        "FECHAINVEN" : 773539200000,
+        "PROPIETARI" : "MIGUEL MARCACCIO",
+        "UTMX" : 316121.5,
+        "UTMY" : 1055732,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.695248627140487,
+          9.5399845428338903
+        ]
+      },
+      "properties" : {
+        "FID" : 122,
+        "IDENT" : "TR5877302A",
+        "FECHAINVEN" : 773539200000,
+        "PROPIETARI" : "HIDROANDES",
+        "UTMX" : 314137.29999999999,
+        "UTMY" : 1055373,
+        "FECHA" : "54",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 36,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.707747871048738,
+          9.5191563006553963
+        ]
+      },
+      "properties" : {
+        "FID" : 123,
+        "IDENT" : "TR5877303A",
+        "FECHAINVEN" : 773625600000,
+        "PROPIETARI" : "MAC",
+        "UTMX" : 312753.59999999998,
+        "UTMY" : 1053076,
+        "FECHA" : "151292",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.717747763699393,
+          9.5286001698941387
+        ]
+      },
+      "properties" : {
+        "FID" : 124,
+        "IDENT" : "TR5877304A",
+        "FECHAINVEN" : 773625600000,
+        "PROPIETARI" : "PEDRO PAREZ",
+        "UTMX" : 311660.79999999999,
+        "UTMY" : 1054126,
+        "FECHA" : "84",
+        "DIAMETPERF" : 15,
+        "PROFUNPERF" : 7,
+        "DIAMETENTU" : 15
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.740526111648933,
+          9.5261003374586064
+        ]
+      },
+      "properties" : {
+        "FID" : 125,
+        "IDENT" : "TR5877305A",
+        "FECHAINVEN" : 773625600000,
+        "PROPIETARI" : "HIDROANDES",
+        "UTMX" : 309158.40000000002,
+        "UTMY" : 1053862,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.767747979100278,
+          9.5458166939605018
+        ]
+      },
+      "properties" : {
+        "FID" : 126,
+        "IDENT" : "TR5877306A",
+        "FECHAINVEN" : 773971200000,
+        "PROPIETARI" : "JULIO MENDEZ ZERPA",
+        "UTMX" : 306180.59999999998,
+        "UTMY" : 1056058,
+        "FECHA" : "93",
+        "DIAMETPERF" : 14,
+        "PROFUNPERF" : 44,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.788080628957644,
+          9.5299549737694065
+        ]
+      },
+      "properties" : {
+        "FID" : 127,
+        "IDENT" : "TR5877307A",
+        "FECHAINVEN" : 771033600000,
+        "PROPIETARI" : "ESC GRANJA EL CENIZO",
+        "UTMX" : 303939.09999999998,
+        "UTMY" : 1054315,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 90,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.81635861794372,
+          9.5174864974377709
+        ]
+      },
+      "properties" : {
+        "FID" : 128,
+        "IDENT" : "TR5877308A",
+        "FECHAINVEN" : 773625600000,
+        "PROPIETARI" : "ARACERLIS DE ESTRADA",
+        "UTMX" : 300826.90000000002,
+        "UTMY" : 1052952,
+        "FECHA" : "74",
+        "DIAMETPERF" : 1,
+        "PROFUNPERF" : 8,
+        "DIAMETENTU" : 1.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.810159270633008,
+          9.5010017046514665
+        ]
+      },
+      "properties" : {
+        "FID" : 129,
+        "IDENT" : "TR5877309A",
+        "FECHAINVEN" : 773884800000,
+        "PROPIETARI" : "ESC DE AGRICULTURA",
+        "UTMX" : 301498.09999999998,
+        "UTMY" : 1051125,
+        "FECHA" : "74",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.797747389541541,
+          9.499158232703989
+        ]
+      },
+      "properties" : {
+        "FID" : 130,
+        "IDENT" : "TR5877310A",
+        "FECHAINVEN" : 773971200000,
+        "PROPIETARI" : "KAMINCA",
+        "UTMX" : 302860,
+        "UTMY" : 1050914,
+        "FECHA" : " ",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 140,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.817720398533623,
+          9.5894233808186851
+        ]
+      },
+      "properties" : {
+        "FID" : 131,
+        "IDENT" : "TR5877108A",
+        "FECHAINVEN" : 763862400000,
+        "PROPIETARI" : "TEODARDO MENDEZ",
+        "UTMX" : 300719.29999999999,
+        "UTMY" : 1060910,
+        "FECHA" : " ",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 48,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.820780185805361,
+          9.5841548150994829
+        ]
+      },
+      "properties" : {
+        "FID" : 132,
+        "IDENT" : "TR5877109A",
+        "FECHAINVEN" : 764380800000,
+        "PROPIETARI" : "TEODARDO MENDEZ",
+        "UTMX" : 300380.29999999999,
+        "UTMY" : 1060329,
+        "FECHA" : "74",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 25,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.753303749489049,
+          9.5877575474742951
+        ]
+      },
+      "properties" : {
+        "FID" : 133,
+        "IDENT" : "TR5877161C",
+        "FECHAINVEN" : 766627200000,
+        "PROPIETARI" : "SANTO DELGADO",
+        "UTMX" : 307790.09999999998,
+        "UTMY" : 1060689,
+        "FECHA" : "82",
+        "DIAMETPERF" : 39,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 39
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.751637244911777,
+          9.5855419550907222
+        ]
+      },
+      "properties" : {
+        "FID" : 134,
+        "IDENT" : "TR5877162C",
+        "FECHAINVEN" : 766800000000,
+        "PROPIETARI" : "MIGUEL MARCASSIO",
+        "UTMX" : 307971.79999999999,
+        "UTMY" : 1060443,
+        "FECHA" : "110390",
+        "DIAMETPERF" : 39,
+        "PROFUNPERF" : 15,
+        "DIAMETENTU" : 39
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896635471766828,
+          9.4777618783737481
+        ]
+      },
+      "properties" : {
+        "FID" : 135,
+        "IDENT" : "TR5778001A",
+        "FECHAINVEN" : 749779200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 291987.79999999999,
+        "UTMY" : 1048605,
+        "FECHA" : "70",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.882350471693243,
+          9.4833986685035327
+        ]
+      },
+      "properties" : {
+        "FID" : 136,
+        "IDENT" : "TR5780004A",
+        "FECHAINVEN" : 736992000000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 293560,
+        "UTMY" : 1049220,
+        "FECHA" : "160682",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 126,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896080484728628,
+          9.4902673562128346
+        ]
+      },
+      "properties" : {
+        "FID" : 137,
+        "IDENT" : "TR5778009A",
+        "FECHAINVEN" : 750038400000,
+        "PROPIETARI" : "IAN",
+        "UTMX" : 292056.29999999999,
+        "UTMY" : 1049988,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.869413985490752,
+          9.4788755648542669
+        ]
+      },
+      "properties" : {
+        "FID" : 138,
+        "IDENT" : "TR5778024A",
+        "FECHAINVEN" : 754704000000,
+        "PROPIETARI" : "INOS",
+        "UTMX" : 294978,
+        "UTMY" : 1048712,
+        "FECHA" : "060576",
+        "DIAMETPERF" : 12,
+        "PROFUNPERF" : 74.5,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.855247129804241,
+          9.4774863853249123
+        ]
+      },
+      "properties" : {
+        "FID" : 139,
+        "IDENT" : "TR5778026A",
+        "FECHAINVEN" : 755222400000,
+        "PROPIETARI" : "RICARDO MONTANO",
+        "UTMX" : 296533,
+        "UTMY" : 1048550,
+        "FECHA" : "78",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.891080832768353,
+          9.4788767360406307
+        ]
+      },
+      "properties" : {
+        "FID" : 140,
+        "IDENT" : "TR5778043A",
+        "FECHAINVEN" : 758851200000,
+        "PROPIETARI" : "NELSON AGUILART",
+        "UTMX" : 292598.5,
+        "UTMY" : 1048725,
+        "FECHA" : "85",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 20,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.889793471226156,
+          9.4790735296919877
+        ]
+      },
+      "properties" : {
+        "FID" : 141,
+        "IDENT" : "TR5778044A",
+        "FECHAINVEN" : 758851200000,
+        "PROPIETARI" : "NELSON AGUILAR",
+        "UTMX" : 292740,
+        "UTMY" : 1048746,
+        "FECHA" : "82",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 27,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.88135852079165,
+          9.4774917215238741
+        ]
+      },
+      "properties" : {
+        "FID" : 142,
+        "IDENT" : "TR5778045A",
+        "FECHAINVEN" : 758851200000,
+        "PROPIETARI" : "LINA ROSA DELGADO",
+        "UTMX" : 293665.40000000002,
+        "UTMY" : 1048566,
+        "FECHA" : "1093",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 31,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.89330276530481,
+          9.4855453806125176
+        ]
+      },
+      "properties" : {
+        "FID" : 143,
+        "IDENT" : "TR5778046A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "GUILLERMO ARAUJO",
+        "UTMX" : 292358.5,
+        "UTMY" : 1049464,
+        "FECHA" : " ",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 24,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.883858276998851,
+          9.4930454558179811
+        ]
+      },
+      "properties" : {
+        "FID" : 144,
+        "IDENT" : "TR5778047A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "RITO BENITEZ DELGADO",
+        "UTMX" : 293400.20000000001,
+        "UTMY" : 1050288,
+        "FECHA" : "83",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896358462028914,
+          9.489153915983314
+        ]
+      },
+      "properties" : {
+        "FID" : 145,
+        "IDENT" : "TR5778048A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "ANTONIO ASUAJE",
+        "UTMX" : 292025.09999999998,
+        "UTMY" : 1049865,
+        "FECHA" : "86",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.898858303690545,
+          9.4811037084720571
+        ]
+      },
+      "properties" : {
+        "FID" : 146,
+        "IDENT" : "TR5778049A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "ANTONIO ASUAJE",
+        "UTMX" : 291745.70000000001,
+        "UTMY" : 1048976,
+        "FECHA" : "86",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.894135526643197,
+          9.4824853130706348
+        ]
+      },
+      "properties" : {
+        "FID" : 147,
+        "IDENT" : "TR5778050A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "MARIA VICTORIA DELGADO",
+        "UTMX" : 292265.20000000001,
+        "UTMY" : 1049126,
+        "FECHA" : "80",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 39,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.893025130492447,
+          9.4769316421386893
+        ]
+      },
+      "properties" : {
+        "FID" : 148,
+        "IDENT" : "TR5778051A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "RAFAEL ANTONIO VALERO",
+        "UTMX" : 292383.79999999999,
+        "UTMY" : 1048511,
+        "FECHA" : "87",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896922074034094,
+          9.4788812994140113
+        ]
+      },
+      "properties" : {
+        "FID" : 149,
+        "IDENT" : "TR5778052A",
+        "FECHAINVEN" : 759024000000,
+        "PROPIETARI" : "MANUAL ANTONIO ESCOBAR",
+        "UTMX" : 291957,
+        "UTMY" : 1048729,
+        "FECHA" : "0293",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 36,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.894136115589944,
+          9.480270480235701
+        ]
+      },
+      "properties" : {
+        "FID" : 150,
+        "IDENT" : "TR5778053A",
+        "FECHAINVEN" : 758937600000,
+        "PROPIETARI" : "FRANCISCO BENITEZ",
+        "UTMX" : 292263.79999999999,
+        "UTMY" : 1048881,
+        "FECHA" : "93",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 27,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896635763893968,
+          9.4860968566811117
+        ]
+      },
+      "properties" : {
+        "FID" : 151,
+        "IDENT" : "TR5778054A",
+        "FECHAINVEN" : 759024000000,
+        "PROPIETARI" : "IAN",
+        "UTMX" : 291992.79999999999,
+        "UTMY" : 1049527,
+        "FECHA" : "70",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 90,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.888302968127348,
+          9.4727625048266209
+        ]
+      },
+      "properties" : {
+        "FID" : 152,
+        "IDENT" : "TR5778145A",
+        "FECHAINVEN" : 766972800000,
+        "PROPIETARI" : "REMIGIO VILLEGAS",
+        "UTMX" : 292899.90000000002,
+        "UTMY" : 1048047,
+        "FECHA" : "73",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 36,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.890247239426301,
+          9.4566605572243763
+        ]
+      },
+      "properties" : {
+        "FID" : 153,
+        "IDENT" : "TR5778146A",
+        "FECHAINVEN" : 766972800000,
+        "PROPIETARI" : "REMIGIO VILLEGAS",
+        "UTMX" : 292676.70000000001,
+        "UTMY" : 1046267,
+        "FECHA" : " ",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 36,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.884413740506517,
+          9.4713731779169557
+        ]
+      },
+      "properties" : {
+        "FID" : 154,
+        "IDENT" : "TR5778147A",
+        "FECHAINVEN" : 766972800000,
+        "PROPIETARI" : "MARIA ELENA ARAUJO",
+        "UTMX" : 293326.20000000001,
+        "UTMY" : 1047891,
+        "FECHA" : "93",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.881293012457945,
+          9.4716521122267352
+        ]
+      },
+      "properties" : {
+        "FID" : 155,
+        "IDENT" : "TR5778148A",
+        "FECHAINVEN" : 767232000000,
+        "PROPIETARI" : "ANDRES DELGADO",
+        "UTMX" : 293669.09999999998,
+        "UTMY" : 1047920,
+        "FECHA" : "84",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.881636304840967,
+          9.4724910063011265
+        ]
+      },
+      "properties" : {
+        "FID" : 156,
+        "IDENT" : "TR5778149A",
+        "FECHAINVEN" : 767232000000,
+        "PROPIETARI" : "ANDRES DELGADO",
+        "UTMX" : 293631.90000000002,
+        "UTMY" : 1048013,
+        "FECHA" : "80",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 27,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.902469103863652,
+          9.4711038529156202
+        ]
+      },
+      "properties" : {
+        "FID" : 157,
+        "IDENT" : "TR5778150A",
+        "FECHAINVEN" : 767232000000,
+        "PROPIETARI" : "LORES SAMBON TITOVEL",
+        "UTMX" : 291343.09999999998,
+        "UTMY" : 1047872,
+        "FECHA" : "84",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 72,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.896914039717359,
+          9.4641550010195239
+        ]
+      },
+      "properties" : {
+        "FID" : 158,
+        "IDENT" : "TR5778151A",
+        "FECHAINVEN" : 767232000000,
+        "PROPIETARI" : "OSMAN PERES",
+        "UTMX" : 291949,
+        "UTMY" : 1047100,
+        "FECHA" : "121277",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 98,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.895802490083071,
+          9.4827655716222488
+        ]
+      },
+      "properties" : {
+        "FID" : 159,
+        "IDENT" : "TR5778002A",
+        "FECHAINVEN" : 749779200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 292082.29999999999,
+        "UTMY" : 1049158,
+        "FECHA" : "012682",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.877754974477924,
+          9.556088358242727
+        ]
+      },
+      "properties" : {
+        "FID" : 160,
+        "IDENT" : "TR5878089A",
+        "FECHAINVEN" : 771465600000,
+        "PROPIETARI" : "MALARIOLOGIA SAS",
+        "UTMX" : 294108.29999999999,
+        "UTMY" : 1057258,
+        "FECHA" : " ",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 110,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.895247531166774,
+          9.5530372657401603
+        ]
+      },
+      "properties" : {
+        "FID" : 161,
+        "IDENT" : "TR5878009A",
+        "FECHAINVEN" : 749347200000,
+        "PROPIETARI" : "CORPOANDES",
+        "UTMX" : 292185.79999999999,
+        "UTMY" : 1056931,
+        "FECHA" : "140793",
+        "DIAMETPERF" : 26,
+        "PROFUNPERF" : 140,
+        "DIAMETENTU" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.739713753517549,
+          9.4776273719204855
+        ]
+      },
+      "properties" : {
+        "FID" : 162,
+        "IDENT" : "TR5777002A",
+        "FECHAINVEN" : 774748800000,
+        "PROPIETARI" : "HIDROANDES",
+        "UTMX" : 309220.70000000001,
+        "UTMY" : 1048500,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 122,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.779413885272021,
+          9.4705479424874621
+        ]
+      },
+      "properties" : {
+        "FID" : 163,
+        "IDENT" : "TR5777003A",
+        "FECHAINVEN" : 773884800000,
+        "PROPIETARI" : "MARIALOGIA",
+        "UTMX" : 304857,
+        "UTMY" : 1047739,
+        "FECHA" : "77",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 68,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.797747452529791,
+          9.4699933019404412
+        ]
+      },
+      "properties" : {
+        "FID" : 164,
+        "IDENT" : "TR5777004A",
+        "FECHAINVEN" : 773971200000,
+        "PROPIETARI" : "KAMINCA",
+        "UTMX" : 302843.29999999999,
+        "UTMY" : 1047688,
+        "FECHA" : " ",
+        "DIAMETPERF" : 14,
+        "PROFUNPERF" : 140,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.800425028538129,
+          9.4655406313112653
+        ]
+      },
+      "properties" : {
+        "FID" : 165,
+        "IDENT" : "TR5777005A",
+        "FECHAINVEN" : 773971200000,
+        "PROPIETARI" : "KAMINCA",
+        "UTMX" : 302546.70000000001,
+        "UTMY" : 1047197,
+        "FECHA" : " ",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 140,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.811363282328244,
+          9.4647791315639118
+        ]
+      },
+      "properties" : {
+        "FID" : 166,
+        "IDENT" : "TR5777006A",
+        "FECHAINVEN" : 774662400000,
+        "PROPIETARI" : "RODRIGO GARCIA",
+        "UTMX" : 301345,
+        "UTMY" : 1047119,
+        "FECHA" : "74",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 80,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.803302882696599,
+          9.4624882104921788
+        ]
+      },
+      "properties" : {
+        "FID" : 167,
+        "IDENT" : "TR5777007A",
+        "FECHAINVEN" : 774662400000,
+        "PROPIETARI" : "JULIO MORENO",
+        "UTMX" : 302228.90000000002,
+        "UTMY" : 1046861,
+        "FECHA" : "170470",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.812469795405491,
+          9.4677658274768604
+        ]
+      },
+      "properties" : {
+        "FID" : 168,
+        "IDENT" : "TR5777008A",
+        "FECHAINVEN" : 774662400000,
+        "PROPIETARI" : "DONATO D' AGUSTINI",
+        "UTMX" : 301225.20000000001,
+        "UTMY" : 1047450,
+        "FECHA" : "64",
+        "DIAMETPERF" : 10,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.806636274027795,
+          9.4894299697005842
+        ]
+      },
+      "properties" : {
+        "FID" : 169,
+        "IDENT" : "TR5777009A",
+        "FECHAINVEN" : 774662400000,
+        "PROPIETARI" : "DONATO D' AGUSTINI",
+        "UTMX" : 301878.29999999999,
+        "UTMY" : 1049843,
+        "FECHA" : "74",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.789969595440454,
+          9.4730436428612492
+        ]
+      },
+      "properties" : {
+        "FID" : 170,
+        "IDENT" : "TR5777010A",
+        "FECHAINVEN" : 775094400000,
+        "PROPIETARI" : "PEPE NATALE",
+        "UTMX" : 303699.20000000001,
+        "UTMY" : 1048021,
+        "FECHA" : "88",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 180,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.791827667533596,
+          9.4813786346611604
+        ]
+      },
+      "properties" : {
+        "FID" : 171,
+        "IDENT" : "TR5777011A",
+        "FECHAINVEN" : 775094400000,
+        "PROPIETARI" : "PEPE NATALE",
+        "UTMX" : 303499.90000000002,
+        "UTMY" : 1048944,
+        "FECHA" : "92",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 180,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.794692498197392,
+          9.4559688917518407
+        ]
+      },
+      "properties" : {
+        "FID" : 172,
+        "IDENT" : "TR5777012A",
+        "FECHAINVEN" : 775094400000,
+        "PROPIETARI" : "FLORENCIO JOSE CASTILLO",
+        "UTMX" : 303170.79999999999,
+        "UTMY" : 1046135,
+        "FECHA" : "74",
+        "DIAMETPERF" : 8,
+        "PROFUNPERF" : 130.69999999999999,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.783207545813482,
+          9.4483247839310245
+        ]
+      },
+      "properties" : {
+        "FID" : 173,
+        "IDENT" : "TR5777013A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "RAMON B. EZPINOZA",
+        "UTMX" : 304427.79999999999,
+        "UTMY" : 1045283,
+        "FECHA" : " ",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 80,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.795963296851653,
+          9.4221685711203502
+        ]
+      },
+      "properties" : {
+        "FID" : 174,
+        "IDENT" : "TR5777014A",
+        "FECHAINVEN" : 775440000000,
+        "PROPIETARI" : "JOSE M. VASQUEZ",
+        "UTMX" : 303012,
+        "UTMY" : 1042397,
+        "FECHA" : "87",
+        "DIAMETPERF" : 24,
+        "PROFUNPERF" : 123,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.800989702745426,
+          9.4372135755292206
+        ]
+      },
+      "properties" : {
+        "FID" : 175,
+        "IDENT" : "TR5777015A",
+        "FECHAINVEN" : 775353600000,
+        "PROPIETARI" : "VICENTE BENCOMO",
+        "UTMX" : 302468.5,
+        "UTMY" : 1044064,
+        "FECHA" : "54",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 80,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.823302689770401,
+          9.4649884660274584
+        ]
+      },
+      "properties" : {
+        "FID" : 176,
+        "IDENT" : "TR5777016A",
+        "FECHAINVEN" : 769996800000,
+        "PROPIETARI" : "MANUEL USCATEGUI",
+        "UTMX" : 300033.90000000002,
+        "UTMY" : 1047149,
+        "FECHA" : "74",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 25,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.824692197244886,
+          9.4675758517407065
+        ]
+      },
+      "properties" : {
+        "FID" : 177,
+        "IDENT" : "TR5777017A",
+        "FECHAINVEN" : 775267200000,
+        "PROPIETARI" : "HECTOR PENA",
+        "UTMX" : 299882.79999999999,
+        "UTMY" : 1047436,
+        "FECHA" : " ",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 18,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.751973941909426,
+          9.5686069163166128
+        ]
+      },
+      "properties" : {
+        "FID" : 178,
+        "IDENT" : "TR5877058C",
+        "FECHAINVEN" : 762134400000,
+        "PROPIETARI" : "MIGUEL MARCACIO",
+        "UTMX" : 307925.29999999999,
+        "UTMY" : 1058570,
+        "FECHA" : "110292",
+        "DIAMETPERF" : 52,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 52
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.753859137639978,
+          9.5674853802673621
+        ]
+      },
+      "properties" : {
+        "FID" : 179,
+        "IDENT" : "TR5877059C",
+        "FECHAINVEN" : 762048000000,
+        "PROPIETARI" : "ELISEO BOSCAN",
+        "UTMX" : 307717.70000000001,
+        "UTMY" : 1058447,
+        "FECHA" : "130786",
+        "DIAMETPERF" : 37,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 37
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.753931009003239,
+          9.5685337441740277
+        ]
+      },
+      "properties" : {
+        "FID" : 180,
+        "IDENT" : "TR5877060C",
+        "FECHAINVEN" : 761961600000,
+        "PROPIETARI" : "MARTA LINARES",
+        "UTMX" : 307710.40000000002,
+        "UTMY" : 1058563,
+        "FECHA" : "290693",
+        "DIAMETPERF" : 39,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 39.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.76095463640462,
+          9.571183264247523
+        ]
+      },
+      "properties" : {
+        "FID" : 181,
+        "IDENT" : "TR5877061A",
+        "FECHAINVEN" : 761961600000,
+        "PROPIETARI" : "JORGE LINARES",
+        "UTMX" : 306940.79999999999,
+        "UTMY" : 1058860,
+        "FECHA" : "100789",
+        "DIAMETPERF" : 19,
+        "PROFUNPERF" : 70,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.758604920391917,
+          9.5735457733096805
+        ]
+      },
+      "properties" : {
+        "FID" : 182,
+        "IDENT" : "TR5877062C",
+        "FECHAINVEN" : 761961600000,
+        "PROPIETARI" : "OMAR QUINTERO",
+        "UTMX" : 307200.09999999998,
+        "UTMY" : 1059120,
+        "FECHA" : "020986",
+        "DIAMETPERF" : 43,
+        "PROFUNPERF" : 11,
+        "DIAMETENTU" : 43
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.766034398361327,
+          9.5746833111587115
+        ]
+      },
+      "properties" : {
+        "FID" : 183,
+        "IDENT" : "TR5877063C",
+        "FECHAINVEN" : 762393600000,
+        "PROPIETARI" : "NECTALI CIRA",
+        "UTMX" : 306385.09999999998,
+        "UTMY" : 1059250,
+        "FECHA" : "091292",
+        "DIAMETPERF" : 40,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.768568023469058,
+          9.574426300506035
+        ]
+      },
+      "properties" : {
+        "FID" : 184,
+        "IDENT" : "TR5877064C",
+        "FECHAINVEN" : 762048000000,
+        "PROPIETARI" : "JOSE MACARIO PADILLA",
+        "UTMX" : 306106.79999999999,
+        "UTMY" : 1059223,
+        "FECHA" : "100193",
+        "DIAMETPERF" : 43,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 43
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.774228056684962,
+          9.5838719924370963
+        ]
+      },
+      "properties" : {
+        "FID" : 185,
+        "IDENT" : "TR5877065A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 305490.79999999999,
+        "UTMY" : 1060271,
+        "FECHA" : "121089",
+        "DIAMETPERF" : 25,
+        "PROFUNPERF" : 121,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.774415245543011,
+          9.5822075542463647
+        ]
+      },
+      "properties" : {
+        "FID" : 186,
+        "IDENT" : "TR5877066A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 305469.29999999999,
+        "UTMY" : 1060087,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.770803461076412,
+          9.5835911711265549
+        ]
+      },
+      "properties" : {
+        "FID" : 187,
+        "IDENT" : "TR5877067A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 305866.59999999998,
+        "UTMY" : 1060238,
+        "FECHA" : " ",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 50,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.772470552304611,
+          9.5874791699412061
+        ]
+      },
+      "properties" : {
+        "FID" : 188,
+        "IDENT" : "TR5877068A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 305685.79999999999,
+        "UTMY" : 1060669,
+        "FECHA" : " ",
+        "DIAMETPERF" : 16,
+        "PROFUNPERF" : 40,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.785526063273977,
+          9.581653247549264
+        ]
+      },
+      "properties" : {
+        "FID" : 189,
+        "IDENT" : "TR5877069A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 304249.20000000001,
+        "UTMY" : 1060032,
+        "FECHA" : "080394",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.781359450283603,
+          9.5899830172811313
+        ]
+      },
+      "properties" : {
+        "FID" : 190,
+        "IDENT" : "TR5877070A",
+        "FECHAINVEN" : 763084800000,
+        "PROPIETARI" : "VICTOR FERNANDEZ",
+        "UTMX" : 304711.40000000002,
+        "UTMY" : 1060951,
+        "FECHA" : " ",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 30,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.773740935616757,
+          9.576723329324409
+        ]
+      },
+      "properties" : {
+        "FID" : 191,
+        "IDENT" : "TR5877071A",
+        "FECHAINVEN" : 762393600000,
+        "PROPIETARI" : "JUAN BAUTISTA ALDANA",
+        "UTMX" : 305540.20000000001,
+        "UTMY" : 1059480,
+        "FECHA" : "130292",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 15,
+        "DIAMETENTU" : 1.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.777196697087518,
+          9.5747799761275054
+        ]
+      },
+      "properties" : {
+        "FID" : 192,
+        "IDENT" : "TR5877072A",
+        "FECHAINVEN" : 762393600000,
+        "PROPIETARI" : "TULIO RAMON MENDOZA",
+        "UTMX" : 305159.70000000001,
+        "UTMY" : 1059267,
+        "FECHA" : " ",
+        "DIAMETPERF" : 22,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.775620441660607,
+          9.5664525716671811
+        ]
+      },
+      "properties" : {
+        "FID" : 193,
+        "IDENT" : "TR5877073C",
+        "FECHAINVEN" : 762393600000,
+        "PROPIETARI" : "SEGUNDO BARRIOS",
+        "UTMX" : 305328,
+        "UTMY" : 1058345,
+        "FECHA" : "100392",
+        "DIAMETPERF" : 43,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 43
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.772298385366241,
+          9.5660627218333296
+        ]
+      },
+      "properties" : {
+        "FID" : 194,
+        "IDENT" : "TR5877074C",
+        "FECHAINVEN" : 762393600000,
+        "PROPIETARI" : "ALEJO RODRIGUEZ",
+        "UTMX" : 305692.5,
+        "UTMY" : 1058300,
+        "FECHA" : "150193",
+        "DIAMETPERF" : 30,
+        "PROFUNPERF" : 11.1,
+        "DIAMETENTU" : 30
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.774136837447145,
+          9.5599870461493257
+        ]
+      },
+      "properties" : {
+        "FID" : 195,
+        "IDENT" : "TR5877075A",
+        "FECHAINVEN" : 762566400000,
+        "PROPIETARI" : "GAETANO ONOFRONO",
+        "UTMX" : 305487.20000000001,
+        "UTMY" : 1057629,
+        "FECHA" : " ",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.788581487364453,
+          9.568320705789489
+        ]
+      },
+      "properties" : {
+        "FID" : 196,
+        "IDENT" : "TR5877076A",
+        "FECHAINVEN" : 762566400000,
+        "PROPIETARI" : "PEDRO J. MARTINEZ",
+        "UTMX" : 303906.09999999998,
+        "UTMY" : 1058559,
+        "FECHA" : "031084",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 110,
+        "DIAMETENTU" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.805359780493603,
+          9.5615347972044695
+        ]
+      },
+      "properties" : {
+        "FID" : 197,
+        "IDENT" : "TR5877077A",
+        "FECHAINVEN" : 762566400000,
+        "PROPIETARI" : "PEDRO J. MARTINEZ",
+        "UTMX" : 302060.09999999998,
+        "UTMY" : 1057818,
+        "FECHA" : " ",
+        "DIAMETPERF" : 18,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.787962134224301,
+          9.5785940089386958
+        ]
+      },
+      "properties" : {
+        "FID" : 198,
+        "IDENT" : "TR5877078C",
+        "FECHAINVEN" : 762739200000,
+        "PROPIETARI" : "TOBIAS MOLINA",
+        "UTMX" : 303980,
+        "UTMY" : 1059695,
+        "FECHA" : "100492",
+        "DIAMETPERF" : 44,
+        "PROFUNPERF" : 10,
+        "DIAMETENTU" : 44
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.800948040806858,
+          9.5723069007047261
+        ]
+      },
+      "properties" : {
+        "FID" : 199,
+        "IDENT" : "TR5877079A",
+        "FECHAINVEN" : 762739200000,
+        "PROPIETARI" : "GUMERCINDO GUDI¥O",
+        "UTMX" : 302550.70000000001,
+        "UTMY" : 1059007,
+        "FECHA" : " ",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 25,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.796359765721689,
+          9.5890376265371504
+        ]
+      },
+      "properties" : {
+        "FID" : 200,
+        "IDENT" : "TR5877080A",
+        "FECHAINVEN" : 762739200000,
+        "PROPIETARI" : "GUMERCINDO GUDI¥O",
+        "UTMX" : 303064.09999999998,
+        "UTMY" : 1060855,
+        "FECHA" : "160483",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 22,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.795525760569291,
+          9.5885899246514352
+        ]
+      },
+      "properties" : {
+        "FID" : 201,
+        "IDENT" : "TR5877081A",
+        "FECHAINVEN" : 762739200000,
+        "PROPIETARI" : "GUMERCINDO GUDI¥O",
+        "UTMX" : 303155.40000000002,
+        "UTMY" : 1060805,
+        "FECHA" : "130786",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 28,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.803672866434951,
+          9.5849856247281515
+        ]
+      },
+      "properties" : {
+        "FID" : 202,
+        "IDENT" : "TR5877082A",
+        "FECHAINVEN" : 763171200000,
+        "PROPIETARI" : "GUMERCINDO GUDI¥O",
+        "UTMX" : 302258.90000000002,
+        "UTMY" : 1060411,
+        "FECHA" : "110684",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 18,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.805519436186231,
+          9.5870914829106262
+        ]
+      },
+      "properties" : {
+        "FID" : 203,
+        "IDENT" : "TR5877083C",
+        "FECHAINVEN" : 763171200000,
+        "PROPIETARI" : "GERBER MARTINEZ",
+        "UTMX" : 302057.40000000002,
+        "UTMY" : 1060645,
+        "FECHA" : "100192",
+        "DIAMETPERF" : 42,
+        "PROFUNPERF" : 12,
+        "DIAMETENTU" : 42
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.805713456392695,
+          9.5917372884004077
+        ]
+      },
+      "properties" : {
+        "FID" : 204,
+        "IDENT" : "TR5877084A",
+        "FECHAINVEN" : 763171200000,
+        "PROPIETARI" : "AGUSTIN AVILA",
+        "UTMX" : 302038.79999999999,
+        "UTMY" : 1061159,
+        "FECHA" : "100784",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 26,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.802936196967536,
+          9.5919235334295614
+        ]
+      },
+      "properties" : {
+        "FID" : 205,
+        "IDENT" : "TR5877085A",
+        "FECHAINVEN" : 763171200000,
+        "PROPIETARI" : "AGUSTIN AVILA",
+        "UTMX" : 302343.79999999999,
+        "UTMY" : 1061178,
+        "FECHA" : "110391",
+        "DIAMETPERF" : 2,
+        "PROFUNPERF" : 26,
+        "DIAMETENTU" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.897746710877854,
+          9.4697101630748346
+        ]
+      },
+      "properties" : {
+        "FID" : 206,
+        "IDENT" : "TR5778153A",
+        "FECHAINVEN" : 767318400000,
+        "PROPIETARI" : "OSMAN PEREZ",
+        "UTMX" : 291860.90000000002,
+        "UTMY" : 1047715,
+        "FECHA" : "91",
+        "DIAMETPERF" : 3,
+        "PROFUNPERF" : 46,
+        "DIAMETENTU" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.872469242965636,
+          9.4649915229986785
+        ]
+      },
+      "properties" : {
+        "FID" : 207,
+        "IDENT" : "TR5778154A",
+        "FECHAINVEN" : 767318400000,
+        "PROPIETARI" : "CONCEPCION ANDRADES",
+        "UTMX" : 294634.20000000001,
+        "UTMY" : 1047178,
+        "FECHA" : "83",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 50,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.905802622493425,
+          9.4544339272687683
+        ]
+      },
+      "properties" : {
+        "FID" : 208,
+        "IDENT" : "TR5778156A",
+        "FECHAINVEN" : 767404800000,
+        "PROPIETARI" : "KAMBUCA",
+        "UTMX" : 290966.90000000002,
+        "UTMY" : 1046030,
+        "FECHA" : "130392",
+        "DIAMETPERF" : 28,
+        "PROFUNPERF" : 157,
+        "DIAMETENTU" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.90330228134772,
+          9.4408240774320475
+        ]
+      },
+      "properties" : {
+        "FID" : 209,
+        "IDENT" : "TR5778160A",
+        "FECHAINVEN" : 767491200000,
+        "PROPIETARI" : "ALBEL PEREZ",
+        "UTMX" : 291233.29999999999,
+        "UTMY" : 1044523,
+        "FECHA" : "220391",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 62,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.898857883384096,
+          9.4277670633338939
+        ]
+      },
+      "properties" : {
+        "FID" : 210,
+        "IDENT" : "TR5778165A",
+        "FECHAINVEN" : 767491200000,
+        "PROPIETARI" : "MONCHE ARAUJO",
+        "UTMX" : 291713.59999999998,
+        "UTMY" : 1043076,
+        "FECHA" : "92",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 64,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.892746671201095,
+          9.4158217754161804
+        ]
+      },
+      "properties" : {
+        "FID" : 211,
+        "IDENT" : "TR5778206A",
+        "FECHAINVEN" : 770342400000,
+        "PROPIETARI" : "BELISE RAMON HERNANDEZ",
+        "UTMX" : 292377.70000000001,
+        "UTMY" : 1041751,
+        "FECHA" : "69",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.892747102966894,
+          9.4105513605460533
+        ]
+      },
+      "properties" : {
+        "FID" : 212,
+        "IDENT" : "TR5778208A",
+        "FECHAINVEN" : 770515200000,
+        "PROPIETARI" : "RICARDO PEREZ",
+        "UTMX" : 292374.5,
+        "UTMY" : 1041168,
+        "FECHA" : "010578",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 64,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.890802495740829,
+          9.4105437139440458
+        ]
+      },
+      "properties" : {
+        "FID" : 213,
+        "IDENT" : "TR5778209A",
+        "FECHAINVEN" : 770515200000,
+        "PROPIETARI" : "RICARDO PEREZ",
+        "UTMX" : 292588.09999999998,
+        "UTMY" : 1041166,
+        "FECHA" : "57",
+        "DIAMETPERF" : 4,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.854969328894853,
+          9.4236075048993442
+        ]
+      },
+      "properties" : {
+        "FID" : 214,
+        "IDENT" : "TR5778241A",
+        "FECHAINVEN" : 773452800000,
+        "PROPIETARI" : "FRANSISCO PE¥A",
+        "UTMX" : 296531.79999999999,
+        "UTMY" : 1042590,
+        "FECHA" : "76",
+        "DIAMETPERF" : 6,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.853858194392856,
+          9.4269402034180878
+        ]
+      },
+      "properties" : {
+        "FID" : 215,
+        "IDENT" : "TR5778242A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "FRANCISCO PE¥A",
+        "UTMX" : 296655.79999999999,
+        "UTMY" : 1042958,
+        "FECHA" : "87",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 170,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.849135877432204,
+          9.4394317043948224
+        ]
+      },
+      "properties" : {
+        "FID" : 216,
+        "IDENT" : "TR5778243A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "FRANCISCO PE¥A",
+        "UTMX" : 297181.79999999999,
+        "UTMY" : 1044337,
+        "FECHA" : "76",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.853857785930671,
+          9.4513762394901093
+        ]
+      },
+      "properties" : {
+        "FID" : 217,
+        "IDENT" : "TR5778244A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "FRANCISCO PE¥A",
+        "UTMX" : 296670.20000000001,
+        "UTMY" : 1045661,
+        "FECHA" : "87",
+        "DIAMETPERF" : 28,
+        "PROFUNPERF" : 100,
+        "DIAMETENTU" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.847469348223242,
+          9.4591575013521627
+        ]
+      },
+      "properties" : {
+        "FID" : 218,
+        "IDENT" : "TR5778245A",
+        "FECHAINVEN" : 775267200000,
+        "PROPIETARI" : "FRANCISCO PE¥A",
+        "UTMX" : 297376.40000000002,
+        "UTMY" : 1046518,
+        "FECHA" : "88",
+        "DIAMETPERF" : 12,
+        "PROFUNPERF" : 60,
+        "DIAMETENTU" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.862468834592335,
+          9.4141569593499526
+        ]
+      },
+      "properties" : {
+        "FID" : 219,
+        "IDENT" : "TR5778246A",
+        "FECHAINVEN" : 775180800000,
+        "PROPIETARI" : "FRANCISCO PE¥A",
+        "UTMX" : 295702.5,
+        "UTMY" : 1041549,
+        "FECHA" : "92",
+        "DIAMETPERF" : 17,
+        "PROFUNPERF" : 120,
+        "DIAMETENTU" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -70.731358410832158,
+          9.4902627450956079
+        ]
+      },
+      "properties" : {
+        "FID" : 220,
+        "IDENT" : "TR5777001A",
+        "FECHAINVEN" : 774835200000,
+        "PROPIETARI" : "HIDROANDES",
+        "UTMX" : 310145.20000000001,
+        "UTMY" : 1049893,
+        "FECHA" : "70",
+        "DIAMETPERF" : 0,
+        "PROFUNPERF" : 0,
+        "DIAMETENTU" : 0
+      }
+    }
+  ]
+}
